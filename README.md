@@ -1,4 +1,5 @@
 # hello-git-gutowski
 
-**Imie:** Adam Małysz
+**Name:** Adam Małysz
+
 **Program:** Python 3.7
